@@ -1,0 +1,177 @@
+fileFormatVersion: 2
+guid: 5d161278c0a83584cb271b0f33aef281
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: leaves1
+    100002: leaves1joint
+    100004: leaves2
+    100006: leaves2joint
+    100008: leaves3
+    100010: leaves3joint
+    100012: leaves4
+    100014: leaves4joint
+    100016: leaves5
+    100018: leaves5joint
+    100020: leaves6
+    100022: leaves6joint
+    100024: leaves7
+    100026: leaves7joint
+    100028: leaves8
+    100030: leaves8joint
+    100032: //RootNode
+    100034: trunk
+    100036: trunk1joint
+    100038: trunk2joint
+    400000: leaves1
+    400002: leaves1joint
+    400004: leaves2
+    400006: leaves2joint
+    400008: leaves3
+    400010: leaves3joint
+    400012: leaves4
+    400014: leaves4joint
+    400016: leaves5
+    400018: leaves5joint
+    400020: leaves6
+    400022: leaves6joint
+    400024: leaves7
+    400026: leaves7joint
+    400028: leaves8
+    400030: leaves8joint
+    400032: //RootNode
+    400034: trunk
+    400036: trunk1joint
+    400038: trunk2joint
+    2100000: leavesColor
+    2100002: trunkColor
+    4300000: leaves1
+    4300002: leaves2
+    4300004: leaves3
+    4300006: leaves4
+    4300008: leaves5
+    4300010: leaves6
+    4300012: leaves7
+    4300014: leaves8
+    4300016: trunk
+    7400000: oldPhoenixTreeIdle
+    9500000: //RootNode
+    13700000: leaves1
+    13700002: leaves2
+    13700004: leaves3
+    13700006: leaves4
+    13700008: leaves5
+    13700010: leaves6
+    13700012: leaves7
+    13700014: leaves8
+    13700016: trunk
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: oldPhoenixTreeIdle
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

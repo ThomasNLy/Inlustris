@@ -1,0 +1,456 @@
+fileFormatVersion: 2
+guid: 28597c6d111830740bd45fcdc91f738a
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Bridge
+    100002: BridgePart1
+    100004: BridgePart2
+    100006: BridgePart3
+    100008: BridgePart4
+    100010: BridgePart5
+    100012: BridgePart6
+    100014: BridgePart7
+    100016: HiddenArea
+    100018: Level1MainMeshes
+    100020: Level1Meshes
+    100022: Part0
+    100024: Part0 1
+    100026: Part1
+    100028: Part1 1
+    100030: Part10
+    100032: Part10 1
+    100034: Part11
+    100036: Part11 1
+    100038: Part12
+    100040: Part12 1
+    100042: Part13
+    100044: Part13 1
+    100046: Part14
+    100048: Part14 1
+    100050: Part15
+    100052: Part15 1
+    100054: Part16
+    100056: Part16 1
+    100058: Part17
+    100060: Part18
+    100062: Part19
+    100064: Part2
+    100066: Part2 1
+    100068: Part20
+    100070: Part21
+    100072: Part22
+    100074: Part23
+    100076: Part24
+    100078: Part25
+    100080: Part26
+    100082: Part27
+    100084: Part28
+    100086: Part29
+    100088: Part3
+    100090: Part3 1
+    100092: Part30
+    100094: Part31
+    100096: Part32
+    100098: Part33
+    100100: Part34
+    100102: Part35
+    100104: Part36
+    100106: Part37
+    100108: Part38
+    100110: Part39
+    100112: Part4
+    100114: Part4 1
+    100116: Part40
+    100118: Part41
+    100120: Part42
+    100122: Part43
+    100124: Part44
+    100126: Part45
+    100128: Part5
+    100130: Part5 1
+    100132: Part6
+    100134: Part6 1
+    100136: Part7
+    100138: Part7 1
+    100140: Part8
+    100142: Part8 1
+    100144: Part9
+    100146: Part9 1
+    100148: //RootNode
+    100150: pPlatonic1
+    400000: Bridge
+    400002: BridgePart1
+    400004: BridgePart2
+    400006: BridgePart3
+    400008: BridgePart4
+    400010: BridgePart5
+    400012: BridgePart6
+    400014: BridgePart7
+    400016: HiddenArea
+    400018: Level1MainMeshes
+    400020: Level1Meshes
+    400022: Part0
+    400024: Part0 1
+    400026: Part1
+    400028: Part1 1
+    400030: Part10
+    400032: Part10 1
+    400034: Part11
+    400036: Part11 1
+    400038: Part12
+    400040: Part12 1
+    400042: Part13
+    400044: Part13 1
+    400046: Part14
+    400048: Part14 1
+    400050: Part15
+    400052: Part15 1
+    400054: Part16
+    400056: Part16 1
+    400058: Part17
+    400060: Part18
+    400062: Part19
+    400064: Part2
+    400066: Part2 1
+    400068: Part20
+    400070: Part21
+    400072: Part22
+    400074: Part23
+    400076: Part24
+    400078: Part25
+    400080: Part26
+    400082: Part27
+    400084: Part28
+    400086: Part29
+    400088: Part3
+    400090: Part3 1
+    400092: Part30
+    400094: Part31
+    400096: Part32
+    400098: Part33
+    400100: Part34
+    400102: Part35
+    400104: Part36
+    400106: Part37
+    400108: Part38
+    400110: Part39
+    400112: Part4
+    400114: Part4 1
+    400116: Part40
+    400118: Part41
+    400120: Part42
+    400122: Part43
+    400124: Part44
+    400126: Part45
+    400128: Part5
+    400130: Part5 1
+    400132: Part6
+    400134: Part6 1
+    400136: Part7
+    400138: Part7 1
+    400140: Part8
+    400142: Part8 1
+    400144: Part9
+    400146: Part9 1
+    400148: //RootNode
+    400150: pPlatonic1
+    2100000: lambert2
+    2100002: lambert3
+    2300000: BridgePart1
+    2300002: BridgePart2
+    2300004: BridgePart3
+    2300006: BridgePart4
+    2300008: BridgePart5
+    2300010: BridgePart6
+    2300012: BridgePart7
+    2300014: Part0
+    2300016: Part0 1
+    2300018: Part1
+    2300020: Part1 1
+    2300022: Part10
+    2300024: Part10 1
+    2300026: Part11
+    2300028: Part11 1
+    2300030: Part12
+    2300032: Part12 1
+    2300034: Part13
+    2300036: Part13 1
+    2300038: Part14
+    2300040: Part14 1
+    2300042: Part15
+    2300044: Part15 1
+    2300046: Part16
+    2300048: Part16 1
+    2300050: Part17
+    2300052: Part18
+    2300054: Part19
+    2300056: Part2
+    2300058: Part2 1
+    2300060: Part20
+    2300062: Part21
+    2300064: Part22
+    2300066: Part23
+    2300068: Part24
+    2300070: Part25
+    2300072: Part26
+    2300074: Part27
+    2300076: Part28
+    2300078: Part29
+    2300080: Part3
+    2300082: Part3 1
+    2300084: Part30
+    2300086: Part31
+    2300088: Part32
+    2300090: Part33
+    2300092: Part34
+    2300094: Part35
+    2300096: Part36
+    2300098: Part37
+    2300100: Part38
+    2300102: Part39
+    2300104: Part4
+    2300106: Part4 1
+    2300108: Part40
+    2300110: Part41
+    2300112: Part42
+    2300114: Part43
+    2300116: Part44
+    2300118: Part45
+    2300120: Part5
+    2300122: Part5 1
+    2300124: Part6
+    2300126: Part6 1
+    2300128: Part7
+    2300130: Part7 1
+    2300132: Part8
+    2300134: Part8 1
+    2300136: Part9
+    2300138: Part9 1
+    2300140: pPlatonic1
+    3300000: BridgePart1
+    3300002: BridgePart2
+    3300004: BridgePart3
+    3300006: BridgePart4
+    3300008: BridgePart5
+    3300010: BridgePart6
+    3300012: BridgePart7
+    3300014: Part0
+    3300016: Part0 1
+    3300018: Part1
+    3300020: Part1 1
+    3300022: Part10
+    3300024: Part10 1
+    3300026: Part11
+    3300028: Part11 1
+    3300030: Part12
+    3300032: Part12 1
+    3300034: Part13
+    3300036: Part13 1
+    3300038: Part14
+    3300040: Part14 1
+    3300042: Part15
+    3300044: Part15 1
+    3300046: Part16
+    3300048: Part16 1
+    3300050: Part17
+    3300052: Part18
+    3300054: Part19
+    3300056: Part2
+    3300058: Part2 1
+    3300060: Part20
+    3300062: Part21
+    3300064: Part22
+    3300066: Part23
+    3300068: Part24
+    3300070: Part25
+    3300072: Part26
+    3300074: Part27
+    3300076: Part28
+    3300078: Part29
+    3300080: Part3
+    3300082: Part3 1
+    3300084: Part30
+    3300086: Part31
+    3300088: Part32
+    3300090: Part33
+    3300092: Part34
+    3300094: Part35
+    3300096: Part36
+    3300098: Part37
+    3300100: Part38
+    3300102: Part39
+    3300104: Part4
+    3300106: Part4 1
+    3300108: Part40
+    3300110: Part41
+    3300112: Part42
+    3300114: Part43
+    3300116: Part44
+    3300118: Part45
+    3300120: Part5
+    3300122: Part5 1
+    3300124: Part6
+    3300126: Part6 1
+    3300128: Part7
+    3300130: Part7 1
+    3300132: Part8
+    3300134: Part8 1
+    3300136: Part9
+    3300138: Part9 1
+    3300140: pPlatonic1
+    4300000: Part0
+    4300002: Part1
+    4300004: Part2
+    4300006: Part3
+    4300008: Part4
+    4300010: Part5
+    4300012: Part6
+    4300014: Part7
+    4300016: Part8
+    4300018: Part9
+    4300020: Part10
+    4300022: Part11
+    4300024: Part12
+    4300026: Part13
+    4300028: Part14
+    4300030: Part15
+    4300032: Part16
+    4300034: Part17
+    4300036: Part18
+    4300038: Part19
+    4300040: Part20
+    4300042: Part21
+    4300044: Part22
+    4300046: Part23
+    4300048: Part24
+    4300050: Part25
+    4300052: Part26
+    4300054: Part27
+    4300056: Part28
+    4300058: Part29
+    4300060: Part30
+    4300062: Part31
+    4300064: Part32
+    4300066: Part33
+    4300068: Part34
+    4300070: Part35
+    4300072: Part36
+    4300074: Part37
+    4300076: Part38
+    4300078: Part39
+    4300080: Part40
+    4300082: Part41
+    4300084: Part42
+    4300086: Part43
+    4300088: Part44
+    4300090: Part45
+    4300092: Part0
+    4300094: Part1
+    4300096: Part2
+    4300098: Part3
+    4300100: Part4
+    4300102: Part5
+    4300104: Part6
+    4300106: Part7
+    4300108: Part8
+    4300110: Part9
+    4300112: Part10
+    4300114: Part11
+    4300116: Part12
+    4300118: Part13
+    4300120: Part14
+    4300122: Part15
+    4300124: Part16
+    4300126: BridgePart1
+    4300128: BridgePart2
+    4300130: BridgePart3
+    4300132: BridgePart4
+    4300134: BridgePart5
+    4300136: BridgePart6
+    4300138: BridgePart7
+    4300140: pPlatonic1
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

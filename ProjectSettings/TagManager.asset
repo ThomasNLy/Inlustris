@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PlayerUI
+  - UI
+  - Pickupable
+  - PlayerGroundDetect
+  - PlayerCenterPivot
+  - PlayerTail
+  - PlayerHitbox
+  - Platform
+  - SpawnPoints
+  - StarCounter
+  - StarsCollected
+  - StarCountIndicator
+  - StarsNotCollected
+  - GuideSpawnRange
+  - Star
+  - PuzzleFinishedIndicator
+  - Equipment
+  - LootPanel
+  - HP
+  - Inventory
+  - InventorySlot
+  - PowerupCounter
+  - Ground
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - Minimap
+  - NotInMainCamera
+  - Player
+  - IgnoreLight
+  - NotInMinimap
+  - 
+  - Platform
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 574725983
+    locked: 0
+  - name: TextOverlay
+    uniqueID: 2813373539
+    locked: 0

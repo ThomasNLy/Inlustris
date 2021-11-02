@@ -1,0 +1,462 @@
+fileFormatVersion: 2
+guid: e38c7b7f2ceca964d9dc7dacd9adab1a
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Bridge
+    100002: BridgePart1
+    100004: BridgePart2
+    100006: BridgePart3
+    100008: BridgePart4
+    100010: BridgePart5
+    100012: BridgePart6
+    100014: BridgePart7
+    100016: Head
+    100018: HiddenArea
+    100020: LeftWing
+    100022: //RootNode
+    100024: MiddleToTail
+    100026: Part0
+    100028: Part1
+    100030: Part1 1
+    100032: Part1 2
+    100034: Part1 3
+    100036: Part10
+    100038: Part10 1
+    100040: Part10 2
+    100042: Part10 3
+    100044: Part11
+    100046: Part11 1
+    100048: Part11 2
+    100050: Part11 3
+    100052: Part12
+    100054: Part12 1
+    100056: Part13
+    100058: Part13 1
+    100060: Part14
+    100062: Part14 1
+    100064: Part15
+    100066: Part15 1
+    100068: Part16
+    100070: Part16 1
+    100072: Part17
+    100074: Part17 1
+    100076: Part18
+    100078: Part18 1
+    100080: Part19
+    100082: Part19 1
+    100084: Part2
+    100086: Part2 1
+    100088: Part2 2
+    100090: Part2 3
+    100092: Part20
+    100094: Part20 1
+    100096: Part21
+    100098: Part3
+    100100: Part3 1
+    100102: Part3 2
+    100104: Part3 3
+    100106: Part4
+    100108: Part4 1
+    100110: Part4 2
+    100112: Part4 3
+    100114: Part5
+    100116: Part5 1
+    100118: Part5 2
+    100120: Part5 3
+    100122: Part6
+    100124: Part6 1
+    100126: Part6 2
+    100128: Part6 3
+    100130: Part7
+    100132: Part7 1
+    100134: Part7 2
+    100136: Part7 3
+    100138: Part8
+    100140: Part8 1
+    100142: Part8 2
+    100144: Part8 3
+    100146: Part9
+    100148: Part9 1
+    100150: Part9 2
+    100152: Part9 3
+    100154: RightWing
+    400000: Bridge
+    400002: BridgePart1
+    400004: BridgePart2
+    400006: BridgePart3
+    400008: BridgePart4
+    400010: BridgePart5
+    400012: BridgePart6
+    400014: BridgePart7
+    400016: Head
+    400018: HiddenArea
+    400020: LeftWing
+    400022: //RootNode
+    400024: MiddleToTail
+    400026: Part0
+    400028: Part1
+    400030: Part1 1
+    400032: Part1 2
+    400034: Part1 3
+    400036: Part10
+    400038: Part10 1
+    400040: Part10 2
+    400042: Part10 3
+    400044: Part11
+    400046: Part11 1
+    400048: Part11 2
+    400050: Part11 3
+    400052: Part12
+    400054: Part12 1
+    400056: Part13
+    400058: Part13 1
+    400060: Part14
+    400062: Part14 1
+    400064: Part15
+    400066: Part15 1
+    400068: Part16
+    400070: Part16 1
+    400072: Part17
+    400074: Part17 1
+    400076: Part18
+    400078: Part18 1
+    400080: Part19
+    400082: Part19 1
+    400084: Part2
+    400086: Part2 1
+    400088: Part2 2
+    400090: Part2 3
+    400092: Part20
+    400094: Part20 1
+    400096: Part21
+    400098: Part3
+    400100: Part3 1
+    400102: Part3 2
+    400104: Part3 3
+    400106: Part4
+    400108: Part4 1
+    400110: Part4 2
+    400112: Part4 3
+    400114: Part5
+    400116: Part5 1
+    400118: Part5 2
+    400120: Part5 3
+    400122: Part6
+    400124: Part6 1
+    400126: Part6 2
+    400128: Part6 3
+    400130: Part7
+    400132: Part7 1
+    400134: Part7 2
+    400136: Part7 3
+    400138: Part8
+    400140: Part8 1
+    400142: Part8 2
+    400144: Part8 3
+    400146: Part9
+    400148: Part9 1
+    400150: Part9 2
+    400152: Part9 3
+    400154: RightWing
+    2100000: lambert2
+    2100002: lambert3
+    2300000: BridgePart1
+    2300002: BridgePart2
+    2300004: BridgePart3
+    2300006: BridgePart4
+    2300008: BridgePart5
+    2300010: BridgePart6
+    2300012: BridgePart7
+    2300014: Head
+    2300016: Part0
+    2300018: Part1
+    2300020: Part1 1
+    2300022: Part1 2
+    2300024: Part1 3
+    2300026: Part10
+    2300028: Part10 1
+    2300030: Part10 2
+    2300032: Part10 3
+    2300034: Part11
+    2300036: Part11 1
+    2300038: Part11 2
+    2300040: Part11 3
+    2300042: Part12
+    2300044: Part12 1
+    2300046: Part13
+    2300048: Part13 1
+    2300050: Part14
+    2300052: Part14 1
+    2300054: Part15
+    2300056: Part15 1
+    2300058: Part16
+    2300060: Part16 1
+    2300062: Part17
+    2300064: Part17 1
+    2300066: Part18
+    2300068: Part18 1
+    2300070: Part19
+    2300072: Part19 1
+    2300074: Part2
+    2300076: Part2 1
+    2300078: Part2 2
+    2300080: Part2 3
+    2300082: Part20
+    2300084: Part20 1
+    2300086: Part21
+    2300088: Part3
+    2300090: Part3 1
+    2300092: Part3 2
+    2300094: Part3 3
+    2300096: Part4
+    2300098: Part4 1
+    2300100: Part4 2
+    2300102: Part4 3
+    2300104: Part5
+    2300106: Part5 1
+    2300108: Part5 2
+    2300110: Part5 3
+    2300112: Part6
+    2300114: Part6 1
+    2300116: Part6 2
+    2300118: Part6 3
+    2300120: Part7
+    2300122: Part7 1
+    2300124: Part7 2
+    2300126: Part7 3
+    2300128: Part8
+    2300130: Part8 1
+    2300132: Part8 2
+    2300134: Part8 3
+    2300136: Part9
+    2300138: Part9 1
+    2300140: Part9 2
+    2300142: Part9 3
+    3300000: BridgePart1
+    3300002: BridgePart2
+    3300004: BridgePart3
+    3300006: BridgePart4
+    3300008: BridgePart5
+    3300010: BridgePart6
+    3300012: BridgePart7
+    3300014: Head
+    3300016: Part0
+    3300018: Part1
+    3300020: Part1 1
+    3300022: Part1 2
+    3300024: Part1 3
+    3300026: Part10
+    3300028: Part10 1
+    3300030: Part10 2
+    3300032: Part10 3
+    3300034: Part11
+    3300036: Part11 1
+    3300038: Part11 2
+    3300040: Part11 3
+    3300042: Part12
+    3300044: Part12 1
+    3300046: Part13
+    3300048: Part13 1
+    3300050: Part14
+    3300052: Part14 1
+    3300054: Part15
+    3300056: Part15 1
+    3300058: Part16
+    3300060: Part16 1
+    3300062: Part17
+    3300064: Part17 1
+    3300066: Part18
+    3300068: Part18 1
+    3300070: Part19
+    3300072: Part19 1
+    3300074: Part2
+    3300076: Part2 1
+    3300078: Part2 2
+    3300080: Part2 3
+    3300082: Part20
+    3300084: Part20 1
+    3300086: Part21
+    3300088: Part3
+    3300090: Part3 1
+    3300092: Part3 2
+    3300094: Part3 3
+    3300096: Part4
+    3300098: Part4 1
+    3300100: Part4 2
+    3300102: Part4 3
+    3300104: Part5
+    3300106: Part5 1
+    3300108: Part5 2
+    3300110: Part5 3
+    3300112: Part6
+    3300114: Part6 1
+    3300116: Part6 2
+    3300118: Part6 3
+    3300120: Part7
+    3300122: Part7 1
+    3300124: Part7 2
+    3300126: Part7 3
+    3300128: Part8
+    3300130: Part8 1
+    3300132: Part8 2
+    3300134: Part8 3
+    3300136: Part9
+    3300138: Part9 1
+    3300140: Part9 2
+    3300142: Part9 3
+    4300000: BridgePart1
+    4300002: BridgePart2
+    4300004: BridgePart3
+    4300006: BridgePart4
+    4300008: BridgePart5
+    4300010: BridgePart6
+    4300012: BridgePart7
+    4300014: Part0
+    4300016: Part1
+    4300018: Part2
+    4300020: Part3
+    4300022: Part4
+    4300024: Part5
+    4300026: Part6
+    4300028: Part7
+    4300030: Part8
+    4300032: Part9
+    4300034: Part10
+    4300036: Part11
+    4300038: Part12
+    4300040: Part13
+    4300042: Part14
+    4300044: Part15
+    4300046: Part16
+    4300048: Part17
+    4300050: Part18
+    4300052: Part19
+    4300054: Part20
+    4300056: Part1
+    4300058: Part2
+    4300060: Part3
+    4300062: Part4
+    4300064: Part5
+    4300066: Part6
+    4300068: Part7
+    4300070: Part8
+    4300072: Part9
+    4300074: Part10
+    4300076: Part11
+    4300078: Part1
+    4300080: Part2
+    4300082: Part3
+    4300084: Part4
+    4300086: Part5
+    4300088: Part6
+    4300090: Part7
+    4300092: Part8
+    4300094: Part9
+    4300096: Part10
+    4300098: Part11
+    4300100: Part1
+    4300102: Part2
+    4300104: Part3
+    4300106: Part4
+    4300108: Part5
+    4300110: Part6
+    4300112: Part7
+    4300114: Part8
+    4300116: Part9
+    4300118: Part10
+    4300120: Part11
+    4300122: Part12
+    4300124: Part13
+    4300126: Part14
+    4300128: Part15
+    4300130: Part16
+    4300132: Part17
+    4300134: Part18
+    4300136: Part19
+    4300138: Part20
+    4300140: Part21
+    4300142: Head
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
